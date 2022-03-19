@@ -105,3 +105,1103 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/dr6vv6yob8kqrefaf3z4z5ube
 JavaScript warning: https://static-exp1.licdn.com/sc/h/4mykabdtekwq2vuv2ob5w07ha, line 39: unreachable code after return statement
 JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
 JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1647596539200	geckodriver	INFO	Listening on 127.0.0.1:50738
+1647596542362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilelX4iAR"
+1647596549489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilelX4iAR\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647596575930	Marionette	INFO	Listening on port 50750
+1647596576282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2qe2ch488m9ek7yzy348udmwd, line 5061: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+1647596649834	Marionette	INFO	Stopped listening on port 50750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1647596668570	geckodriver	INFO	Listening on 127.0.0.1:50966
+1647596671665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesQSNzc"
+1647596672832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesQSNzc\\search.json.mozlz4", (void 0)))
+1647596678577	Marionette	INFO	Listening on port 50976
+1647596679119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1647596837620	Marionette	INFO	Stopped listening on port 50976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileW5AigC\\search.json.mozlz4", (void 0)))
+1647596739636	Marionette	INFO	Listening on port 51085
+1647596740786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647597061615	Marionette	INFO	Stopped listening on port 51085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+4	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal2147483659/pagestyle27 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+console.error: "Unable to find target with innerWindowId:2147483672"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2057,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2057","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:976"]}] Barrier: quit-application-granted
+[Parent 13936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2069: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1647614758449	Marionette	INFO	Stopped listening on port 51345
+[Parent 13936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ng: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+1647598386765	geckodriver	INFO	Listening on 127.0.0.1:64056
+1647598389838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMv2Q20"
+1647598391281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMv2Q20\\search.json.mozlz4", (void 0)))
+1647598397172	Marionette	INFO	Listening on port 64066
+1647598398029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "Attempted to write a response containing a destroyed actor"
+console.error: (new Error("Attempted to write a response containing a destroyed actor", "resource://devtools/shared/protocol/types.js", 353))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647614785103	Marionette	INFO	Stopped listening on port 64066
+JavaScript error: resource://gre/modules/ContentPrefServiceParent.jsm, line 121: InvalidStateError: JSProcessActorParent.sendAsyncMessage: Actor 'ContentPrefs' cannot send message 'ContentPrefs:HandleCompletion' during shutdown.
+[Parent 5140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/ContentPrefServiceParent.jsm, line 121: InvalidStateError: JSProcessActorParent.sendAsyncMessage: Actor 'ContentPrefs' cannot send message 'ContentPrefs:HandleCompletion' during shutdown.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tps://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2057,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2057","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:976"]}] Barrier: quit-application-granted
+[Parent 6596, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:565
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2069: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1647614740419	Marionette	INFO	Stopped listening on port 60709
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647626801203	Marionette	INFO	Stopped listening on port 52193
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140007,name=PBackgroundLSDa1647626811334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCH4n6x\\search.json.mozlz4", (void 0)))
+1647626833480	Marionette	INFO	Listening on port 51199
+1647626833888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2315))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647626965346	Marionette	INFO	Stopped listening on port 51199
+console.error: "stylesheets: fetch failed for https://static-exp1.licdn.com/sc/h/210ti93qnlejxs9u34fbsajxa, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static-exp1.licdn.com/sc/h/210ti93qnlejxs9u34fbsajxa, using system principal instead."
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1647627033482	geckodriver	INFO	Listening on 127.0.0.1:51358
+1647627036513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCqswt6"
+1647627037777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCqswt6\\search.json.mozlz4", (void 0)))
+1647627044256	Marionette	INFO	Listening on port 51367
+1647627044638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647627875288	Marionette	INFO	Stopped listening on port 51367
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000B,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14832, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+fo is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 335))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:335:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:733:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:242:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:650:12
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647627875722	Marionette	INFO	Stopped listening on port 64723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilehKoOGd\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647627882078	Marionette	INFO	Listening on port 64709
+1647627883318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/84qwvliowd5tmlx6e9dwl4tws without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647628371761	Marionette	INFO	Stopped listening on port 64709
+ote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWkhkrm"
+1647628239828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWkhkrm\\search.json.mozlz4", (void 0)))
+1647628245651	Marionette	INFO	Listening on port 64874
+1647628246110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+1647628375372	Marionette	INFO	Stopped listening on port 64874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile89jnQi"
+1647628358813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile89jnQi\\search.json.mozlz4", (void 0)))
+1647628366962	Marionette	INFO	Listening on port 65019
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647628368121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647630383937	Marionette	INFO	Stopped listening on port 65019
+ote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileqKeN8t"
+1647629914652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileqKeN8t\\search.json.mozlz4", (void 0)))
+1647629924231	Marionette	INFO	Listening on port 50961
+1647629925328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+[Child 16708, MediaDecoderStateMachine #1] WARNING: Decoder=226fc8e3200 Decode error: NS_ERROR_FAILURE (0x80004005) - Couldn't start RDD process: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+[Child 16708, MediaDecoderStateMachine #1] WARNING: Decoder=226fc8e2c00 Decode error: NS_ERROR_FAILURE (0x80004005) - Couldn't start RDD process: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+1647630382080	Marionette	INFO	Stopped listening on port 50961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1647630410217	geckodriver	INFO	Listening on 127.0.0.1:51386
+1647630413234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilevOowHA"
+1647630415483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilevOowHA\\search.json.mozlz4", (void 0)))
+1647630423031	Marionette	INFO	Listening on port 51396
+1647630423562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+1647630780964	Marionette	INFO	Stopped listening on port 51396
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileomOXwl"
+1647630701243	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileomOXwl\\search.json.mozlz4", (void 0)))
+1647630708059	Marionette	INFO	Listening on port 50025
+1647630709251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647637948932	Marionette	INFO	Stopped listening on port 50025
+[Parent 14472, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+bled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekaD4ZF\\search.json.mozlz4", (void 0)))
+1647636043799	Marionette	INFO	Listening on port 63755
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647636045357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+1647637919314	Marionette	INFO	Stopped listening on port 63755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKzXb66"
+1647636591293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKzXb66\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647636607828	Marionette	INFO	Listening on port 64226
+1647636609140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647637886771	Marionette	INFO	Stopped listening on port 64226
+[Parent 7296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+abled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejxWYoR\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647637897972	Marionette	INFO	Listening on port 50473
+1647637900953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647639204159	Marionette	INFO	Stopped listening on port 50473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647638799059	Marionette	INFO	Stopped listening on port 50720
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1647639098833	geckodriver	INFO	Listening on 127.0.0.1:58341
+1647639102106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTWM3Yx"
+1647639106774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTWM3Yx\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1647639119199	Marionette	INFO	Listening on port 58350
+1647639119684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+1647639314028	Marionette	INFO	Stopped listening on port 58350
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+1647639328613	geckodriver	INFO	Listening on 127.0.0.1:58630
+1647639331667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMNjTxc"
+1647639332427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMNjTxc\\search.json.mozlz4", (void 0)))
+1647639338506	Marionette	INFO	Listening on port 58639
+1647639338678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647640205971	Marionette	INFO	Stopped listening on port 58639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 1592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile8nP9s0\\search.json.mozlz4", (void 0)))
+1647639847852	Marionette	INFO	Listening on port 58257
+1647639848472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647640206945	Marionette	INFO	Stopped listening on port 58257
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647640207865	Marionette	INFO	Stopped listening on port 58428
+[Parent 16036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1647640239177	geckodriver	INFO	Listening on 127.0.0.1:58565
+1647640242109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileagBDeM"
+1647640243615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileagBDeM\\search.json.mozlz4", (void 0)))
+1647640251946	Marionette	INFO	Listening on port 58573
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647640253899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647640808294	Marionette	INFO	Stopped listening on port 58573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: "Could not write session state file " (new Error("IOUtils: Shutting down and refusing additional I/O tasks", (void 0), 106)) "DOMException@resource://gre/modules/PromiseWorker.jsm:106:18\npostMessage@resource://gre/modules/PromiseWorker.jsm:342:55\nobserve@resource://gre/modules/AsyncShutdown.jsm:575:16\n"
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+ning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+1647640804340	Marionette	INFO	Stopped listening on port 50801
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileIK7j0N"
+1647640799170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileIK7j0N\\search.json.mozlz4", (void 0)))
+1647640803834	Marionette	INFO	Listening on port 50941
+1647640804907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647640807067	Marionette	INFO	Stopped listening on port 50941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1647640831164	geckodriver	INFO	Listening on 127.0.0.1:50978
+1647640834288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRj1EGq"
+1647640834835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRj1EGq\\search.json.mozlz4", (void 0)))
+1647640841333	Marionette	INFO	Listening on port 50986
+1647640841768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 5856 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Guojae3EGYR4c8nOY3QAJp6N_HyMY3qMC8IMY_l3vL8.js line 1 > eval line 6612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://addons.mozilla.org"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647641559798	Marionette	INFO	Stopped listening on port 50986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+hxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647641560864	Marionette	INFO	Stopped listening on port 51116
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10340, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1647641584031	geckodriver	INFO	Listening on 127.0.0.1:52905
+1647641587379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMzBpM6"
+1647641588978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMzBpM6\\search.json.mozlz4", (void 0)))
+1647641596440	Marionette	INFO	Listening on port 52913
+1647641596898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647643273425	Marionette	INFO	Stopped listening on port 52913
+ote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWUseu7"
+1647643187504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWUseu7\\search.json.mozlz4", (void 0)))
+1647643192971	Marionette	INFO	Listening on port 49244
+1647643193474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 6797: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/13o0n4rzerhxxy8k1igdwtkm2, line 19126: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1nnn83j5zsxoojznqi23a3snv, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/36h9x23kc68g6qjl0apzbvjqb, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/drbyofrakk9myxyr7npyj0flm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/c1pm9iop587d3ji85vomz4jz, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6mivuo79ra0e8btq3zwg5uib4, line 6: unreachable code after return statement
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/5089kwp8e7caz4caer2llf6f0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/8fbia83wdpxmo9zh4ih6gfgka without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 110: Error: Got a request https://static-exp1.licdn.com/sc/h/ea3veem29aea2vulkggtkk7qf without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647643271456	Marionette	INFO	Stopped listening on port 49244
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAB0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1647730316260	geckodriver	INFO	Listening on 127.0.0.1:56860
+1647730319253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileELW7GZ"
+1647730328428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileELW7GZ\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1647730359109	Marionette	INFO	Listening on port 56870
+1647730359694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6jblk5oqhlo45xbkmcr7s4zix, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 6735: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1iasv360z8tcrscg5ha8a9o60, line 19075: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/4og6prq05chgci15ddv537k3t, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dwpmqhiyubv7nmfb1mf0j4ef7, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8xmh6bjn38lslim9cspx84g51, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ddjd43aqshyrdn47wcishay9i, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5s8mcgsna55arh3zm1vt6lyz1, line 39: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/e9sbzj9n817bzmnmxe4d6ap86, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2mazbn0yvor3qmt1e3l5uh4xp, line 6: unreachable code after return statement

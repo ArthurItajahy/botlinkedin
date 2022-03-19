@@ -1,11 +1,14 @@
 from PySimpleGUI import PySimpleGUI as sg
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
+import pyautogui
 
 
 class LinkedinBot:
     def __init__(self, username, password, text):
+        self.lokingfor = 'tech recruiter'
         self.username = username
         self.password = password
         self.text = text
@@ -30,36 +33,50 @@ class LinkedinBot:
         self.encontrar(intSeguir)
     def encontrar(self,intSeguir):
         driver = self.driver
-        driver.get('https://www.linkedin.com/search/results/people/?keywords=tech%20recruiter&origin=TYPEAHEAD_HISTORY&position=0&searchId=df73d4ff-3dce-495e-ae09-c4901643992c&sid=xcb')
+        search_element = driver.find_element_by_xpath("/html/body/div[6]/header/div/div/div/div[1]/input")
+        search_element.clear()
+        search_element.send_keys(self.lokingfor)
         time.sleep(4)
-        scroll = 0
-        cont = 0
+        search_element.send_keys(Keys.RETURN)
+        time.sleep(5)
+        people_element = driver.find_element_by_xpath("//button[contains(.,'Pessoas')]")
+        self.driver.execute_script('arguments[0].click();', people_element)
+        time.sleep(5)
+        cont = 1
         maximofollow = 0
-        conectar = driver.find_elements_by_id("//button[@id='ember61']")
-        for CN in conectar:
-            if maximofollow < intSeguir:
-                self.driver.execute_script('arguments[0].click();',CN)
-                time.sleep(3)
-                add = driver.find_elements_by_id("//button[@id='ember196']")
-                self.driver.execute_script('arguments[0].click();', add)
-                time.sleep(3)
-                text_element = driver.find_elements_by_id("//textarea[@name='message']")
-                text_element.clear()
-                text_element.send_keys(self.text)
-                text_element.clear()
-
-                maximofollow += 1
-
+        while maximofollow < intSeguir:
+            conectar = driver.find_elements_by_xpath("//button[contains(.,'Conectar')]")
+            if len(conectar) > 1:
+                for CN in conectar:
+                    self.driver.execute_script('arguments[0].click();',CN)
+                    time.sleep(3)
+                    add = driver.find_element_by_xpath("//button[contains(.,'Adicionar nota')]")
+                    self.driver.execute_script('arguments[0].click();', add)
+                    time.sleep(3)
+                    text_element = driver.find_element_by_css_selector('#custom-message')
+                    text_element.clear()
+                    text_element.send_keys(self.text)
+                    time.sleep(3)
+                    enviarText_element = driver.find_element_by_xpath("//button[contains(.,'Enviar')]")
+                    self.driver.execute_script('arguments[0].click();', enviarText_element)
+                    time.sleep(5)
+                    maximofollow += 1
+            else:
+                time.sleep(30)
+                labels_element = driver.find_element_by_xpath("//button[contains(.,'Avançar')]")
+                self.driver.execute_script('arguments[0].click();', labels_element)
+                cont += 1
+                time.sleep(5)
 
 class telapython:
     def __init__(self):
         # layout
-        sg.theme('Reddit')
+        sg.theme('Black')
         layout = [
             [sg.Text('EMAIL:'), sg.Input(key='usuario', size=(20, 1)),
              sg.Text('SENHA:'), sg.Input(key='senha', password_char='*', size=(20, 1))],
             [sg.Text('SEGUIR 1 a 100: '), sg.Input(key='seguir', size=(10, 1))],
-            [sg.Text('TEXTO PARA RECRUTADOR: '), sg.Input(key='text', size=(300, 2))],
+            [sg.Text('TEXTO PARA RECRUTADOR: '), sg.Input(key='text', size=(60, 2))],
             [sg.Button('Entrar', size=(10, 1)),
              sg.Button('Sair', size=(10, 1))],
         ]
@@ -86,7 +103,7 @@ class telapython:
                 break
 
     def fim(self):
-        sg.theme('Reddit')
+        sg.theme('Black')
         layout = [
             [sg.Text('Você conseguiu se conectar com sucesso!!')],
             [sg.Button('SAIR', size=(10, 1))]
