@@ -7,8 +7,8 @@ import pyautogui
 
 
 class LinkedinBot:
-    def __init__(self, username, password, text):
-        self.lokingfor = 'tech recruiter'
+    def __init__(self, username, password, text, pesquisa):
+        self.lokingfor = pesquisa
         self.username = username
         self.password = password
         self.text = text
@@ -42,12 +42,14 @@ class LinkedinBot:
         people_element = driver.find_element_by_xpath("//button[contains(.,'Pessoas')]")
         self.driver.execute_script('arguments[0].click();', people_element)
         time.sleep(5)
-        cont = 1
         maximofollow = 0
         while maximofollow < intSeguir:
             conectar = driver.find_elements_by_xpath("//button[contains(.,'Conectar')]")
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             if len(conectar) > 1:
                 for CN in conectar:
+                    if maximofollow >= intSeguir:
+                        break
                     self.driver.execute_script('arguments[0].click();',CN)
                     time.sleep(3)
                     add = driver.find_element_by_xpath("//button[contains(.,'Adicionar nota')]")
@@ -59,14 +61,13 @@ class LinkedinBot:
                     time.sleep(3)
                     enviarText_element = driver.find_element_by_xpath("//button[contains(.,'Enviar')]")
                     self.driver.execute_script('arguments[0].click();', enviarText_element)
-                    time.sleep(5)
                     maximofollow += 1
             else:
-                time.sleep(30)
+                time.sleep(7)
                 labels_element = driver.find_element_by_xpath("//button[contains(.,'Avançar')]")
                 self.driver.execute_script('arguments[0].click();', labels_element)
-                cont += 1
                 time.sleep(5)
+        driver.quit()
 
 class telapython:
     def __init__(self):
@@ -76,7 +77,8 @@ class telapython:
             [sg.Text('EMAIL:'), sg.Input(key='usuario', size=(20, 1)),
              sg.Text('SENHA:'), sg.Input(key='senha', password_char='*', size=(20, 1))],
             [sg.Text('SEGUIR 1 a 100: '), sg.Input(key='seguir', size=(10, 1))],
-            [sg.Text('TEXTO PARA RECRUTADOR: '), sg.Input(key='text', size=(60, 2))],
+            [sg.Text('PESQUISAR POR: '), sg.Input(key='pesquisa', size=(10, 2))
+            ,sg.Text('TEXTO PARA O PESQUISADO: '), sg.Input(key='text', size=(20, 2))],
             [sg.Button('Entrar', size=(10, 1)),
              sg.Button('Sair', size=(10, 1))],
         ]
@@ -90,13 +92,14 @@ class telapython:
         while True:
             usuario = self.values['usuario']
             password = self.values['senha']
+            pesquisa = self.values['pesquisa']
             text = self.values['text']
             seguir = self.values['seguir']
             intSeguir = int(seguir)
             if self.events == sg.WINDOW_CLOSED:
                 break
             if self.events == 'Entrar':
-                freudBot = LinkedinBot(usuario, password, text)
+                freudBot = LinkedinBot(usuario, password, text,pesquisa)
                 freudBot.login(intSeguir)
                 break
             if self.events == 'Sair':
