@@ -34,7 +34,7 @@ python BotLinkedin.py
 #### In the GUI, provide the following inputs:
 1. Email: Your LinkedIn email.
 2. Password: Your LinkedIn password.
-3. Search Term: The term to search for (e.g., "Python Developer").
+3. Search Term: The term to search for "Python Developer".
 4. Message: A personalized message to send with connection requests.
 5. Number of Connections: Number of requests to send (1–100).
 6. Click Enter to start the automation.
