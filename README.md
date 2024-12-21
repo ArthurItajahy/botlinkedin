@@ -32,6 +32,11 @@ This LinkedIn automation bot, built with Python, automates tasks such as logging
 
 ## Usage Run the script:
 ```bash
+python BotLinkedin.py
+```
+   OR
+   
+```bash
 python3 BotLinkedin.py
 ```
 
