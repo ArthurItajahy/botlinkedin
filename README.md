@@ -30,6 +30,10 @@ This LinkedIn automation bot, built with Python, automates tasks such as logging
 ```bash
 python BotLinkedin.py
 ```
+if you had python 3.0 or above use:
+```bash
+python3 BotLinkedin.py
+```
 
 #### In the GUI, provide the following inputs:
 1. Email: Your LinkedIn email.
