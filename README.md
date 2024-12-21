@@ -48,7 +48,7 @@ Provide a message like:
 ```bash
 "Hi, I’m expanding my network of Python professionals and would love to connect!"
 ```
-+ Choose a number (e.g., 50) for the connection requests.
++ Choose a number from 1-100 for the connection requests.
 + Start the bot. It will log in, search, and send requests automatically.
 
 ### Notes
