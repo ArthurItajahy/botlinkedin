@@ -1,2 +1,55 @@
-# botlinkedin
-Este é um bot usadao para acessar sua conta no linkedin, pelo firefox. Para criar conexões da sua preferência, e mandar mensagem no convite de amizade de  uma forma automatizada.
+# LinkedIn Bot
+
+This LinkedIn automation bot, built with Python, automates tasks such as logging into LinkedIn, searching for specific keywords, and sending connection requests with personalized messages. It features a graphical user interface (GUI) created with **PySimpleGUI** and uses **Selenium** for browser automation.
+
+## Features
+- Logs into LinkedIn using user-provided credentials.
+- Searches for users based on a given keyword or term.
+- Sends customizable connection requests with a message.
+- Limits the number of requests to avoid spamming.
+
+## Requirements
+1. **Python 3.7+**
+2. Libraries:
+   - `selenium`
+   - `PySimpleGUI`
+   - `pyautogui`
+3. **Geckodriver**:
+   - Download from [Mozilla Geckodriver](https://github.com/mozilla/geckodriver/releases).
+   - Update the `executable_path` in the script with the correct path to Geckodriver.
+
+## Installation
+1. Clone or download this repository.
+2. Install the required dependencies:
+   ```bash
+   pip install selenium PySimpleGUI pyautogui
+
+3.Download and configure Geckodriver for Selenium.
+
+## Usage Run the script:
+```bash
+python linkedin_bot.py
+``` 
+In the GUI, provide the following inputs:
+Email: Your LinkedIn email.
+Password: Your LinkedIn password.
+Search Term: The term to search for (e.g., "Python Developer").
+Message: A personalized message to send with connection requests.
+Number of Connections: Number of requests to send (1–100).
+Click Enter to start the automation.
+Example
+To connect with Python developers:
+
+Enter your LinkedIn credentials in the GUI.
+Set the search term to Python Developer.
+Provide a message like:
+"Hi, I’m expanding my network of Python professionals and would love to connect!"
+
+Choose a number (e.g., 50) for the connection requests.
+Start the bot. It will log in, search, and send requests automatically.
+Notes
+Use responsibly to comply with LinkedIn's Terms of Service.
+Avoid sending too many requests in a short time to prevent account restrictions.
+Ensure the Geckodriver path is correctly set in the script.
+Disclaimer
+This project is intended for educational purposes only. Use at your own risk and ensure compliance with LinkedIn policies.
