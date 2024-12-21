@@ -28,26 +28,30 @@ This LinkedIn automation bot, built with Python, automates tasks such as logging
 
 ## Usage Run the script:
 ```bash
-python linkedin_bot.py
-``` 
-In the GUI, provide the following inputs:
-Email: Your LinkedIn email.
-Password: Your LinkedIn password.
-Search Term: The term to search for (e.g., "Python Developer").
-Message: A personalized message to send with connection requests.
-Number of Connections: Number of requests to send (1–100).
-Click Enter to start the automation.
-Example
+python BotLinkedin.py
+```
+
+#### In the GUI, provide the following inputs:
+1. Email: Your LinkedIn email.
+2. Password: Your LinkedIn password.
+3. Search Term: The term to search for (e.g., "Python Developer").
+4. Message: A personalized message to send with connection requests.
+5. Number of Connections: Number of requests to send (1–100).
+6. Click Enter to start the automation.
+
+### Example
 To connect with Python developers:
 
 Enter your LinkedIn credentials in the GUI.
 Set the search term to Python Developer.
 Provide a message like:
+```bash
 "Hi, I’m expanding my network of Python professionals and would love to connect!"
+```
++ Choose a number (e.g., 50) for the connection requests.
++ Start the bot. It will log in, search, and send requests automatically.
 
-Choose a number (e.g., 50) for the connection requests.
-Start the bot. It will log in, search, and send requests automatically.
-Notes
+### Notes
 Use responsibly to comply with LinkedIn's Terms of Service.
 Avoid sending too many requests in a short time to prevent account restrictions.
 Ensure the Geckodriver path is correctly set in the script.
