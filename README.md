@@ -10,7 +10,7 @@ This LinkedIn automation bot, built with Python, automates tasks such as logging
 
 ## Requirements
 1. **Python 3.7+**
-2. Libraries:
+2. **Libraries:**
    - `selenium`
    - `PySimpleGUI`
    - `pyautogui`
@@ -20,9 +20,13 @@ This LinkedIn automation bot, built with Python, automates tasks such as logging
 
 ## Installation
 1. Clone or download this repository.
-2. Install the required dependencies:
+   ```bash
+   git clone https://github.com/ArthurItajahy/botlinkedin.git
+   ```
+3. Install the required dependencies:
    ```bash
    pip install selenium PySimpleGUI pyautogui
+   ```
 
 3.Download and configure Geckodriver for Selenium.
 
